@@ -1,0 +1,29 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "name": "  Tomatoe",
+      "price": 45
+    },
+    {
+      "id": 2,
+      "name": "Meat",
+      "price": 21
+    },
+    {
+      "id": 3,
+      "name": "potato",
+      "price": 22
+    },
+    {
+      "id": 4,
+      "name": "apple",
+      "price": 27
+    },
+    {
+      "id": 5,
+      "name": "milk",
+      "price": 35
+    }
+  ]
+}
